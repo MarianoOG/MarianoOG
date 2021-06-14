@@ -8,20 +8,20 @@ I am a programmer with knowledge of backend and data science. My background is B
 
 ## Skills / Habilidades
 
-▪️ C++ (OpenCL, OpenGL, Boost, Doxygen, STL)
-▪️ Python (Django, OpenCV, NumPy, pandas, Matplotlib)
-▪️ JavaScript (ES6, jQuery, AJAX, Chart.js)
-▪️ REST API's
-▪️ Git / Heroku / Firebase
-▪️ HTML / CSS / JSON / Bootstrap
-▪️ SQL
-▪️ Linux (Ubuntu)
-▪️ Nociones de Ruby on Rails y Java Servlets
-▪️ Nivel intermedio de CMS (Wordpress), hosting y optimización SEO.
-▪️ Nivel intermedio en algoritmos de Machine Learning.
-▪️ Experiencia con Pytorch, Matlab Toolbox, Scikit Learn, pandas y numpy.
-▪️ Uso de gestores de proyectos (Asana, Trello, Todoist, Jira)
-▪️ Metodologías ágiles (SCRUM, KANBAN)
+- C++ (OpenCL, OpenGL, Boost, Doxygen, STL)
+- Python (Django, OpenCV, NumPy, pandas, Matplotlib)
+- JavaScript (ES6, jQuery, AJAX, Chart.js)
+- REST API's
+- Git / Heroku / Firebase
+- HTML / CSS / JSON / Bootstrap
+- SQL
+- Linux (Ubuntu)
+- Nociones de Ruby on Rails y Java Servlets
+- Nivel intermedio de CMS (Wordpress), hosting y optimización SEO.
+- Nivel intermedio en algoritmos de Machine Learning.
+- Experiencia con Pytorch, Matlab Toolbox, Scikit Learn, pandas y numpy.
+- Uso de gestores de proyectos (Asana, Trello, Todoist, Jira)
+- Metodologías ágiles (SCRUM, KANBAN)
 
 ## Contenido
 
@@ -30,7 +30,8 @@ I am a programmer with knowledge of backend and data science. My background is B
 
 ## Contacto
 
-Estoy abierto para platicas sobre educación, aprendizaje, tecnología y ciencias de la computación. / I am open to talk about education, technology and computer science.
+ESP - Estoy abierto para platicas sobre educación, aprendizaje, tecnología y ciencias de la computación.
+ENG - I am open to talk about education, technology and computer science.
 
 - 🖧 [Linkedin](https://www.linkedin.com/in/marianoog)
 - 🌎 [Web](https://marianoog.com)
