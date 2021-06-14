@@ -31,6 +31,7 @@ I am a programmer with knowledge of backend and data science. My background is B
 ## Contacto
 
 ESP - Estoy abierto para platicas sobre educación, aprendizaje, tecnología y ciencias de la computación.
+
 ENG - I am open to talk about education, technology and computer science.
 
 - 🖧 [Linkedin](https://www.linkedin.com/in/marianoog)
