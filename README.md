@@ -1,4 +1,4 @@
-## Spanish (English below)
+## Español (English below)
 
 Soy un programador con conocimiento de desarrollo backend y ciencia de datos. Mi background es Ingeniería en Biónica. Tengo una naturaleza un poco obsesiva por lo que generalmente termino estudiando por horas cuando un tema es de mi interés. Nunca he entendido como algunas personas no pueden maravillarse con la naturaleza. La belleza de algún concepto abstracto es algo que siempre me ha fascinado y el misterio de no saber algo me mueve a intentar descubrirlo. También, disfruto de los juegos de mesa, viajar, la fotografía, nadar y las buenas historias.
 
@@ -17,9 +17,9 @@ I am a programmer with knowledge of backend and data science. My background is B
 - SQL
 - Linux (Ubuntu)
 - Nociones de Ruby on Rails y Java Servlets
-- Nivel intermedio de CMS (Wordpress), hosting y optimización SEO.
+- Nivel intermedio de CMS (WordPress), hosting y optimización SEO.
 - Nivel intermedio en algoritmos de Machine Learning.
-- Experiencia con Pytorch, Matlab Toolbox, Scikit Learn, pandas y numpy.
+- Experiencia con PyTorch, Matlab Toolbox, Scikit Learn, pandas y NumPy.
 - Uso de gestores de proyectos (Asana, Trello, Todoist, Jira)
 - Metodologías ágiles (SCRUM, KANBAN)
 
