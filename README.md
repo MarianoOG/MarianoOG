@@ -1,10 +1,10 @@
 ## Español (English below)
 
-Soy un programador con conocimiento de desarrollo backend y ciencia de datos. Mi background es Ingeniería en Biónica. Tengo una naturaleza un poco obsesiva por lo que generalmente termino estudiando por horas cuando un tema es de mi interés. Nunca he entendido como algunas personas no pueden maravillarse con la naturaleza. La belleza de algún concepto abstracto es algo que siempre me ha fascinado y el misterio de no saber algo me mueve a intentar descubrirlo. También, disfruto de los juegos de mesa, viajar, la fotografía, nadar y las buenas historias.
+Soy científico de datos, ingeniero en biónica, desarrollador de Python & C++ y educador. Me encanta trabajar en problemas de optimización de visión por computadora, machine learning e inteligencia artificial. Me encantan los algoritmos porque nos permiten pensar de forma estructurada y organizada. Tengo experiencia en proyectos comerciales, educativos y de investigación. Por cierto, también disfruto de los juegos de mesa, educación, viajar, la fotografía, nadar y las buenas historias. Estoy abierto para pláticas sobre cualquiera de esos temas.
 
 ## English 
 
-I am a programmer with knowledge of backend and data science. My background is Bionics Engineer. I have an obsessive nature that makes me study for hours when a topic is on my interest. I have never understood why people can't wonder about nature. The beauty of an abstract concept is something that has always been fascinated to me, and the mystery of the unknown has always been a motivation to discover new things. I also enjoy board games, photography, swimming, traveling and good stories.
+I am a data scientist, bionics engineer, C++ and Python developer and an educator. I enjoy working in optimization of computer vision, machine learning and artificial intelligence. I love algorithms because they allow us to think in a structured and organized way. Furthermore, I have experience in commercial, educational, and research projects. By the way, I also enjoy board games, education, photography, traveling, swimming and good storytelling. I am open to talk about any of those topics.
 
 ## Skills / Habilidades
 
@@ -26,6 +26,7 @@ I am a programmer with knowledge of backend and data science. My background is B
 ## Contenido
 
 - 🔴 [Twitch](https://www.twitch.tv/marianoogalgoritmos)
+- 🎵 [TikTok](https://www.tiktok.com/@marianoog_)
 - 🎧 [Spotify](https://open.spotify.com/show/0bjv8Radkjm1tBX0B4jtiE)
 
 ## Contacto
@@ -35,5 +36,5 @@ ESP - Estoy abierto para platicas sobre educación, aprendizaje, tecnología y c
 ENG - I am open to talk about education, technology and computer science.
 
 - 🖧 [Linkedin](https://www.linkedin.com/in/marianoog)
-- 🌎 [Web](https://marianoog.com)
+- 🌎 [Web](https://marianoog.com/contacto)
 - 📫 [Correo](contacto@marianoog.com)
