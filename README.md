@@ -1,3 +1,5 @@
+# Data Scientist, Bionics Engineer & Educator
+
 I am a data scientist with Bionics Engineering background and knowledge on machine learning, data analysis and visualization technologies. I am passionate in Artificial Intelligence as a tool to create meaningful solutions to complex problems. Furthermore, I have a curious and creative personality that keeps updated and learning about the current AI landscape and its trends.
 
 ## Skills
