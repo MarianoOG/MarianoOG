@@ -1,6 +1,6 @@
 I am a data scientist with Bionics Engineering background and knowledge on machine learning, data analysis and visualization technologies. I am passionate in Artificial Intelligence as a tool to create meaningful solutions to complex problems. Furthermore, I have a curious and creative personality that keeps updated and learning about the current AI landscape and its trends.
 
-# Skills
+## Skills
 
 * Clean, transform, merge and visualize data with Python using NumPy, Pandas, Matplotlib, Seaborn, Altair, Plotly, etc...
 * Experience with implementing machine learning algorithms (Scikit-learn, PyTorch and TensorFlow) to create clusters, models and to detect underlying patterns in data.
@@ -14,7 +14,9 @@ I am a data scientist with Bionics Engineering background and knowledge on machi
 * Excellent skills in mathematics (calculus, linear algebra, statistics).
 * Solid understanding of object-oriented programming in Python
 
-Finally, I also enjoy board games, education, photography, traveling, swimming and good storytelling. Send me a message if you want to talk about any of those things!
+## Interests
+
+I also enjoy board games, education, photography, traveling, swimming and good storytelling. Send me a message if you want to talk about any of those things!
 
 ## Contact
 
