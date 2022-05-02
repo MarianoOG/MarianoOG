@@ -9,6 +9,7 @@ I am a data scientist with Bionics Engineering background and knowledge on machi
 * Develop data pipelines: extract, transform and load (ETL’s).
 * Knowledge in SQL (MySQL, PostgreSQL and Firebird).
 * Conformable in working with version control (GIT).
+* Understanding of Clould Technologies (AWS and Azure) and Linux.
 * Experience with agile development, methodologies and tools such as scrum, kanban, Jira, stand-ups, sprint planning.
 * Define and measure metrics (KPI’s, OKR’s) to make data-driven decisions to reach specific objectives and raise productivity.
 * Turn data into interactive easy-to use data visualizations, dashboards, reports and presentations with Tableau and Streamlit.
